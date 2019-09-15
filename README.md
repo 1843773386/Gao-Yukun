@@ -15,5 +15,4 @@
 
 ## 学习Markdown过程，经历，实践，成果展示：
 
-## 进入程序部后想学的东西
-（用Markdown编写）
+### ``PS：[我的steam好友链接]（http://steamcommunity.com/id/1843773386/）,可以加个好友鸭。``
