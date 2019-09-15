@@ -15,4 +15,5 @@
 
 ## 学习Markdown过程，经历，实践，成果展示：
 
-### PS：[我的steam好友链接]（http://steamcommunity.com/id/1843773386/).可以加个好友鸭。
+### PS：[我的steam好友链接]（http://steamcommunity.com/id/1843773386/)。  
+### 可以加个好友鸭。
