@@ -24,4 +24,4 @@
 
 ### <sub> PS：[我的steam好友链接][link] </sub>
 ### <sub> 可以加个好友鸭。 </sub>  
-[link] : http://steamcommunity.com/id/1843773386/ 
+[link]: http://steamcommunity.com/id/1843773386/ 
