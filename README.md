@@ -22,6 +22,5 @@
 ## 进入程序部后想要学习的内容：  
 凡是自已不知道的都有兴趣学，特别是在制作物理引擎方面有所帮助的东西。
 
-### <sub> PS：[我的steam好友链接][link] </sub>
-### <sub> 可以加个好友鸭。 </sub>  
+### <sub> PS：[我的steam好友链接][link] ,可以加个好友鸭。 </sub>  
 [link]: http://steamcommunity.com/id/1843773386/ 
