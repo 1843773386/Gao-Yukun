@@ -23,7 +23,7 @@
 在Markdown的菜鸟教程中就没有<font color=abc123>使</font><font color=123abcd>文</font><font color=a12bc3>字</font><font color=bc2d1>变</font><font color=fa1>色</font><font color=ed123>的</font>教程，最后还得求百度。
 ## <font color="brown"> 进入程序部后想要学习的内容： </font> 
 凡是自已不知道的都有兴趣学，想学c语言，还有在制作物理引擎方面有所帮助的东西。（虚幻四引擎的使用也想学，但是程序部应该是没有这一项吧。。。）  
-<sub> 真的是小白，不知道都能学到什么，不过只要能~~进升华工作室~~学到东西就是好的嘛。 </sub>
+<sub> 真的是小白，不知道都能学到什么，不过只要能~~<sub>进升华工作室~~</sub>学到东西就是好的嘛。 </sub>
 
 ### <sub> PS：[我的steam好友链接][link] ,可以加个好友鸭。 </sub>  
 [link]: http://steamcommunity.com/id/1843773386/ 
